@@ -1,0 +1,5 @@
+name: CraftBooks
+version: 1.0
+author: figboot
+
+main: net.bigfootslair.CraftBooks.Main
